@@ -30,6 +30,7 @@ jobs:
             **/bin/
             **/obj/
 
+            
   test:
     runs-on: self-hosted
     needs: build
